@@ -64,3 +64,6 @@ Publications & Patent
 
 * C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017
 
+
+
+Last Updated 2 Nov. 2019
