@@ -46,23 +46,23 @@ Honors
 
 Publications & Patent
 ------
-* Y.-G. Lim, <ins>Y. J. Cho</ins>, M. S. Sim, Y. Kim, C.-B. Chae, and R. Valenzuela, "Map-based Millimeter-Wave Channel Models: An Overview, Hybrid Modeling, Data, and Learning," submitted to IEEE Wireless Communications Magazine, 2019 
+* Y.-G. Lim, <ins>Y. J. Cho</ins>, M. S. Sim, Y. Kim, C.-B. Chae, and R. Valenzuela, "Map-based Millimeter-Wave Channel Models: An Overview, Hybrid Modeling, Data, and Learning," submitted to IEEE Wireless Communications Magazine, 2019 [pdf](http://yaejeec.github.io/files/2019_IEEE_Map-based Millimeter-Wave Channel Models- An Overview, Hybrid Modeling, Data, and Learning.pdf)
 
-* <ins>Y. J. Cho</ins>, K. Huang, and C.-B. Chae, "V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model," Proc. IEEE Global Communications Conference (GLOBECOM) Workshops, Dec 2018 (Abu Dhabi, UAE) 
+* <ins>Y. J. Cho</ins>, K. Huang, and C.-B. Chae, "V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model," Proc. IEEE Global Communications Conference (GLOBECOM) Workshops, Dec 2018 (Abu Dhabi, UAE) [pdf](http://yaejeec.github.io/files/2018_IEEEGLOBECOM_V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model.pdf)
 
-* Y.-G. Lim, <ins>Y. J. Cho</ins>, T. Oh, Y. Lee, and C.-B. Chae, "Relationship between Cross Polarization Discrimination (XPD) and Spatial Correlation for Indoor Small Cell MIMO Systems," IEEE Wireless Communications Letters, vol. 7, no. 4, pp. 654-657, Aug. 2018 
+* Y.-G. Lim, <ins>Y. J. Cho</ins>, T. Oh, Y. Lee, and C.-B. Chae, "Relationship between Cross Polarization Discrimination (XPD) and Spatial Correlation for Indoor Small Cell MIMO Systems," IEEE Wireless Communications Letters, vol. 7, no. 4, pp. 654-657, Aug. 2018 [pdf](http://yaejeec.github.io/files/2018_IEEEWCL_Relationship between Cross-Polarization Discrimination (XPD) and Spatial Correlation in Indoor Small-Cell MIMO Systems.pdf)
 
-* <ins>Y. J. Cho</ins>, G.-Y. Suk, B. Kim, D.-K. Kim, and C.-B. Chae, "RF Lens Embedded Antenna Array for mmWave MIMO: Design and Performance," IEEE Communications Magazine, vol. 56, no. 7, pp. 42-48, July 2018 
+* <ins>Y. J. Cho</ins>, G.-Y. Suk, B. Kim, D.-K. Kim, and C.-B. Chae, "RF Lens Embedded Antenna Array for mmWave MIMO: Design and Performance," IEEE Communications Magazine, vol. 56, no. 7, pp. 42-48, July 2018 [pdf](http://yaejeec.github.io/files/2018_IEEECOMMAG_RF Lens-Embedded Antenna Array for mmWave MIMO Design and Performance.pdf)
 
-* <ins>Y. J. Cho</ins>, H. B. Yilmaz, W. Guo, and C.-B. Chae, "Effective Inter-symbol Interference Mitigation with a Limited Amount of Enzymes in Molecular Communications," Trans. on Emerging Telecommunications Technologies (ETT), Special Issue on Enabling Nano-Networking via Molecular Communications, vol. 28, no. 7, pp. 1-12, July 2017 
+* <ins>Y. J. Cho</ins>, H. B. Yilmaz, W. Guo, and C.-B. Chae, "Effective Inter-symbol Interference Mitigation with a Limited Amount of Enzymes in Molecular Communications," Trans. on Emerging Telecommunications Technologies (ETT), Special Issue on Enabling Nano-Networking via Molecular Communications, vol. 28, no. 7, pp. 1-12, July 2017 [pdf](http://yaejeec.github.io/files/2016_WileyETT_Effective Inter-symbol Interference Mitigation with a Limited Amount of Enzymes in Molecular Communications.pdf)
 
-* <ins>Y. J. Cho</ins>, H. B. Yilmaz, W. Guo, and C.-B. Chae, "Effective Enzyme Deployment for Inter-Symbol Interference Mitigation in Molecular Communication," Proc. IEEE Wireless Communications and Networking Conference (WCNC), March 2017 (San Francisco, USA) 
+* <ins>Y. J. Cho</ins>, H. B. Yilmaz, W. Guo, and C.-B. Chae, "Effective Enzyme Deployment for Inter-Symbol Interference Mitigation in Molecular Communication," Proc. IEEE Wireless Communications and Networking Conference (WCNC), March 2017 (San Francisco, USA) [pdf](http://yaejeec.github.io/files/2017_IEEEWCNC_Effective Enzyme Deployment for Degradation of Interference Molecules in Molecular Communication.pdf)
 
-* H. B. Yilmaz, C. Lee, <ins>Y. J. Cho</ins>, and C.-B. Chae, "A Machine Learning Approach to Model the Received Signals in Molecular Communications," Proc. of IEEE International Black Sea Conference on Communications and Networking (IEEE BlackSeaCom), June 2017 (Istanbul, Turkey) 
+* H. B. Yilmaz, C. Lee, <ins>Y. J. Cho</ins>, and C.-B. Chae, "A Machine Learning Approach to Model the Received Signals in Molecular Communications," Proc. of IEEE International Black Sea Conference on Communications and Networking (IEEE BlackSeaCom), June 2017 (Istanbul, Turkey)[pdf](http://yaejeec.github.io/files/2017_IEEEBlackSeaCom_A Machine Learning Approach to Model the Received Signal in Molecular Communications.pdf) 
 
-* H. B. Yilmaz, <ins>Y. J. Cho</ins>, W. Guo, and C.-B. Chae, "Interference Reduction via Enzyme Deployment for Molecular Communication," IEEE Electronics Letters, vol. 52, no. 13, pp. 1094-1096, June 2016 
+* H. B. Yilmaz, <ins>Y. J. Cho</ins>, W. Guo, and C.-B. Chae, "Interference Reduction via Enzyme Deployment for Molecular Communication," IEEE Electronics Letters, vol. 52, no. 13, pp. 1094-1096, June 2016 [pdf](http://yaejeec.github.io/files/2016_IEEE EL_Interference Reduction via Enzyme Deployment for Molecular Communication.pdf)
 
-* C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017
+* C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 [link](http://academicpages.github.io/files/paper1.pdf)
 
 
 
