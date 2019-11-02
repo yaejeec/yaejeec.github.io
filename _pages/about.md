@@ -42,8 +42,6 @@ Honors
 * Full scholarship-undergraduate school ($45K in total), Inst. for Info. & Comm. Tech. Promo. (IITP) 2013-2015
 
 
-.center {margin: 3em 3em 0 0;}
-
 
 Publications & Patent
 ------
