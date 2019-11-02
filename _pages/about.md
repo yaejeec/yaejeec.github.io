@@ -19,7 +19,7 @@ I also enjoy playing the piano, walking my dog, and volunteering during my free
 Scroll down to see more.
 
 
-margin: 3em 3em 0 0;
+.center {margin: 3em 3em 0 0;}
 
 
 Experience
@@ -31,7 +31,7 @@ Experience
 * July 2014 - Aug. 2014 / Student / Summer Development Program at Aalto Design Factory, Aalto Univ. (Helsinki, Finland)
 
 
-margin: 3em 3em 0 0;
+.center {margin: 3em 3em 0 0;}
 
 
 Honors
@@ -45,7 +45,7 @@ Honors
 * Full scholarship-undergraduate school ($45K in total), Inst. for Info. & Comm. Tech. Promo. (IITP) 2013-2015
 
 
-margin: 3em 3em 0 0;
+.center {margin: 3em 3em 0 0;}
 
 
 Publications & Patent
@@ -68,6 +68,6 @@ Publications & Patent
 
 * C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 
 
-margin: 3em 3em 0 0;
+.center {margin: 3em 3em 0 0;}
 
 Last Updated 2 Nov. 2019
