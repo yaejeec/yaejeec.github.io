@@ -19,6 +19,7 @@ I also enjoy playing the piano, walking my dog, and volunteering during my free
 Scroll down to see more.
 
 
+margin: 3em 3em 0 0;
 
 
 Experience
@@ -30,6 +31,7 @@ Experience
 * July 2014 - Aug. 2014 / Student / Summer Development Program at Aalto Design Factory, Aalto Univ. (Helsinki, Finland)
 
 
+margin: 3em 3em 0 0;
 
 
 Honors
@@ -42,6 +44,8 @@ Honors
 * Honors for Academic Excellence, Yonsei University 2013-2015
 * Full scholarship-undergraduate school ($45K in total), Inst. for Info. & Comm. Tech. Promo. (IITP) 2013-2015
 
+
+margin: 3em 3em 0 0;
 
 
 Publications & Patent
@@ -62,8 +66,8 @@ Publications & Patent
 
 * H. B. Yilmaz, <ins>Y. J. Cho</ins>, W. Guo, and C.-B. Chae, "Interference Reduction via Enzyme Deployment for Molecular Communication," IEEE Electronics Letters, vol. 52, no. 13, pp. 1094-1096, June 2016 [pdf](http://yaejeec.github.io/files/2016_IEEE EL_Interference Reduction via Enzyme Deployment for Molecular Communication.pdf)
 
-* C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 [link](http://academicpages.github.io/files/paper1.pdf)
+* C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 
 
-
+margin: 3em 3em 0 0;
 
 Last Updated 2 Nov. 2019
