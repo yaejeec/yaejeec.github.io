@@ -12,16 +12,21 @@ I also enjoy playing the piano, walking my dog, and volunteering during my free
 Scroll down to see more.
 
 
+
+
 Experience
-======
+------
 * Sep. 2018 - June 2019 /  R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
 * Mar. 2016 - Aug. 2018 / Research Assistant / Intelligence Networking Lab, Yonsei Univ. (Seoul, South Korea)
 * Jul. 2017 - Aug. 2017 / Visiting Scholar / Wireless@HKU Group, Hong-Kong Univ. (Pok Fu Lam, Hong Kong)
 * Aug. 2015 / Student / Qualcomm IT class of 2015 (San Diego, CA)
 * July 2014 - Aug. 2014 / Student / Summer Development Program at Aalto Design Factory, Aalto Univ. (Helsinki, Finland)
 
+
+
+
 Honors
-======
+------
 * Doctoral Study Abroad Scholarship ($80K in total), Ministry of Education, Republic of Korea 2019-2021
 * Honor Prize in 24th Samsung Human Tech Paper Award, co-recipient, Samsung 2018
 * Outstanding Young Researcher Award, The Korean Inst. of Comm. and Info. Sciences (KICS) 2016
@@ -29,6 +34,8 @@ Honors
 * Most Original Idea Prize for International Women's Hackathon, Microsoft 2014
 * Honors for Academic Excellence, Yonsei University 2013-2015
 * Full scholarship-undergraduate school ($45K in total), Inst. for Info. & Comm. Tech. Promo. (IITP) 2013-2015
+
+
 
 Publications & Patent
 ------
