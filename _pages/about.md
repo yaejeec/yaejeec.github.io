@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 
-
-A data-driven personal website
-======
-
 I am Yae Jee Cho, a first-year Ph. D student at Carnegie Mellon University.
 
 I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in optimization theory and distributed machine learning, in particular, federated learning.
