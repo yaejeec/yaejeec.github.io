@@ -21,7 +21,7 @@ Scroll down to see more.
 
 
 
-Publications & Patent
+Publications
 ------
 * Y. J. Cho, <ins>J. Wang</ins>, and G. Joshi, "Client Selection in Federated Learning: Convergence
 Analysis and Power-of-Choice Selection Strategies," preprint [pdf](https://arxiv.org/pdf/2010.01243.pdf)
