@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yae Jee Cho, a first-year Ph. D student at Carnegie Mellon University.
+I am Yae Jee Cho, a second-year Ph. D student at Carnegie Mellon University.
 
 I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in optimization theory and distributed machine learning, in particular, federated learning.
 
@@ -17,6 +17,15 @@ I also enjoy playing the piano, walking my dog, and volunteering during my free
 
 
 Scroll down to see more.
+
+
+
+
+Publications & Patent
+------
+* Y. J. Cho, <ins>J. Wang</ins>, and G. Joshi, "Client Selection in Federated Learning: Convergence
+Analysis and Power-of-Choice Selection Strategies," preprint [pdf](https://arxiv.org/pdf/2010.01243.pdf)
+
 
 
 
@@ -43,11 +52,6 @@ Honors
 
 
 
-Publications & Patent
-------
-* Y. J. Cho, <ins>J. Wang</ins>, and G. Joshi, "Client Selection in Federated Learning: Convergence
-Analysis and Power-of-Choice Selection Strategies," preprint [pdf](https://arxiv.org/pdf/2010.01243.pdf)
-
 
 Previous Publications & Patent
 ------
@@ -70,4 +74,4 @@ Previous Publications & Patent
 * C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 
 
 
-Last Updated 2 Nov. 2019
+Last Updated 6 Oct. 2020
