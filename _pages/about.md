@@ -45,6 +45,12 @@ Honors
 
 Publications & Patent
 ------
+* Y. J. Cho, <ins>J. Wang</ins>, and G. Joshi, "Client Selection in Federated Learning: Convergence
+Analysis and Power-of-Choice Selection Strategies," preprint [pdf](https://arxiv.org/pdf/2010.01243.pdf)
+
+
+Previous Publications & Patent
+------
 * Y.-G. Lim, <ins>Y. J. Cho</ins>, M. S. Sim, Y. Kim, C.-B. Chae, and R. Valenzuela, "Map-based Millimeter-Wave Channel Models: An Overview, Hybrid Modeling, Data, and Learning," submitted to IEEE Wireless Communications Magazine, 2019 [pdf](http://yaejeec.github.io/files/2019_IEEE_Map-based Millimeter-Wave Channel Models- An Overview, Hybrid Modeling, Data, and Learning.pdf)
 
 * <ins>Y. J. Cho</ins>, K. Huang, and C.-B. Chae, "V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model," Proc. IEEE Global Communications Conference (GLOBECOM) Workshops, Dec 2018 (Abu Dhabi, UAE) [pdf](http://yaejeec.github.io/files/2018_IEEEGLOBECOM_V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model.pdf)
