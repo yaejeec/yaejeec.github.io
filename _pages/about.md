@@ -30,7 +30,7 @@ Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals
 
 
 
-Experience
+Research/Work Experience
 ------
 * Sep. 2018 - June 2019 /  R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
 * Mar. 2016 - Aug. 2018 / Research Assistant / Intelligence Networking Lab, Yonsei Univ. (Seoul, South Korea)
@@ -38,6 +38,11 @@ Experience
 * Aug. 2015 / Student / Qualcomm IT class of 2015 (San Diego, CA)
 * July 2014 - Aug. 2014 / Student / Summer Development Program at Aalto Design Factory, Aalto Univ. (Helsinki, Finland)
 
+
+
+Teaching Experience
+------
+* Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
 
 
 
