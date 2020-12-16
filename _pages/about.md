@@ -24,9 +24,9 @@ Scroll down to see more.
 Publications
 ------
 * <ins>Y. J. Cho</ins>, J. Wang, and G. Joshi, "Client Selection in Federated Learning: Convergence
-Analysis and Power-of-Choice Selection Strategies," preprint [pdf](https://arxiv.org/pdf/2010.01243.pdf)
+Analysis and Power-of-Choice Selection Strategies", <em>preprint</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
 * <ins>Y. J. Cho</ins>, S. Gupta, G. Joshi, and O. Yagan, "Bandit-based Communication-Efficient Client
-Selection Strategies for Federated Learning" Asilomar Conference on Signals, Systems and Computers 2020 (Invited Paper) [pdf](https://arxiv.org/pdf/2012.08009.pdf)
+Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals, Systems and Computers 2020 (Invited Paper)</em> [[pdf]](https://arxiv.org/pdf/2012.08009.pdf)
 
 
 
