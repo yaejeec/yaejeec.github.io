@@ -17,7 +17,7 @@ Scroll down to see more.
 
 
 
-Publications
+Selected Publications
 ------
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, J. Wang, and G. Joshi, "Client Selection in Federated Learning: Convergence
