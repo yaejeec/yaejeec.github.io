@@ -12,11 +12,8 @@ I am Yae Jee Cho, a third-year Ph. D student at Carnegie Mellon University.
 I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in data-aware distributed machine learning, in particular, federated learning.
 
 
-I also enjoy playing the piano, walking my dog, and volunteering during my free time.
-
 
 Scroll down to see more.
-
 
 
 
@@ -87,7 +84,7 @@ Miscellaneous
 ------
 In my free time I enjoy playing the piano, spending time with PanitheCorgi, and volunteering.
 
-<img src="images/panipic.jpg"> 
+<img src="/images/panipic.jpg"> 
 
 
 
