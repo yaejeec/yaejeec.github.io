@@ -82,17 +82,15 @@ Previous Publications & Patent
 
 Miscellaneous
 ------
-In my free time I enjoy playing the piano, spending time with PanitheCorgi, and volunteering.
+In my free time I enjoy playing the piano, spending time with <font face="monospace" color="#1e90ff">PanitheCorgi</font>, and volunteering.
 
 <img src="/images/panipic.jpg" width="30%">
-<p>PanitheCorgi loves <span>&#10052;</span> </p> 
+<p><font face="monospace" color="#1e90ff">PanitheCorgi</font> loves <span>&#10052;</span> </p> 
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
 
-<p style="color:Grey; font-size: 5px;"> Last updated on Oct 2021.</p>
+<p style="color:Grey; font-size: 10px;"> Last updated on Oct 2021.</p>
 
