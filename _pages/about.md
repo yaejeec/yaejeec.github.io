@@ -91,5 +91,5 @@ In my free time I enjoy playing the piano, spending time with <font face="monosp
 <br>
 
 
-<p style="color:Grey; font-size: 15px;"> Last updated on Oct 2021.</p>
+<p style="color:Grey; font-size: 20px;"> Last updated on Oct. 2021.</p>
 
