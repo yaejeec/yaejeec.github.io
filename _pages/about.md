@@ -40,6 +40,7 @@ Research/Work Experience
 
 Teaching Experience/Services
 ------
+* AISTATS-22: Reviewer for Proceedings in AISTATS-22
 * ICML-21: Reviewer for Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3@ICML)
 * Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
 
