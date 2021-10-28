@@ -90,5 +90,5 @@ In my free time I enjoy playing the piano, spending time with PanitheCorgi, and 
 
 
 
-<p style="color:Grey; font-size: 10px;">Last updated on Oct 2021.</p>
+<p style="color:Grey; font-size: 2px;"> Last updated on Oct 2021.</p>
 
