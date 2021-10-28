@@ -84,7 +84,8 @@ Miscellaneous
 ------
 In my free time I enjoy playing the piano, spending time with PanitheCorgi, and volunteering.
 
-<img src="/images/panipic.jpg" width="60%" style="width:128px;height:128px;">
+<img src="/images/panipic.jpg" width="80%" style="width:128px;height:128px;">
+<p>PanitheCorgi in Snow</p>
 
 
 
