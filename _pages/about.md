@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Yae Jee Cho, a second-year Ph. D student at Carnegie Mellon University.
+I am Yae Jee Cho, a third-year Ph. D student at Carnegie Mellon University.
 
-I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in optimization theory and distributed machine learning, in particular, federated learning.
+I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in data-aware distributed machine learning, in particular, federated learning.
 
-Before joining OPAL, I worked at Mercedes-Benz Korea as a Research & Development Engineer in the Drivers Assistance Systems division. I have previously worked with [Prof. Chan-Byoung Chae](http://cbchae.yonsei.ac.kr/) on analytical channel modeling in wireless communication, vehicular communication, and molecular communications.
 
 I also enjoy playing the piano, walking my dog, and volunteering during my free time.
 
@@ -23,8 +22,9 @@ Scroll down to see more.
 
 Publications
 ------
+* <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, J. Wang, and G. Joshi, "Client Selection in Federated Learning: Convergence
-Analysis and Power-of-Choice Selection Strategies", <em>preprint</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
+Analysis and Power-of-Choice Selection Strategies", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
 * <ins>Y. J. Cho</ins>, S. Gupta, G. Joshi, and O. Yagan, "Bandit-based Communication-Efficient Client
 Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals, Systems and Computers 2020 (Invited Paper)</em> [[pdf]](https://arxiv.org/pdf/2012.08009.pdf)
 
@@ -32,7 +32,8 @@ Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals
 
 Research/Work Experience
 ------
-* Sep. 2018 - June 2019 /  R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
+* June 2020 - Aug 2020 / Research Intern / Language Intelligence, Microsoft Research (Redmond, WA)
+* Sep. 2018 - June 2019 / R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
 * Mar. 2016 - Aug. 2018 / Research Assistant / Intelligence Networking Lab, Yonsei Univ. (Seoul, South Korea)
 * Jul. 2017 - Aug. 2017 / Visiting Scholar / Wireless@HKU Group, Hong-Kong Univ. (Pok Fu Lam, Hong Kong)
 * Aug. 2015 / Student / Qualcomm IT class of 2015 (San Diego, CA)
@@ -40,8 +41,9 @@ Research/Work Experience
 
 
 
-Teaching Experience
+Teaching Experience/Services
 ------
+* ICML-21: Reviewer for Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3@ICML)
 * Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
 
 
@@ -80,4 +82,13 @@ Previous Publications & Patent
 * C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 
 
 
-Last Updated 16 Dec. 2020
+
+Miscellaneous
+------
+In my free time I enjoy playing the piano, spending time with PanitheCorgi, and volunteering.
+
+
+
+
+
+Last Updated Oct. 2021
