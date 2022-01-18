@@ -21,7 +21,7 @@ Selected Publications
 ------
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, J. Wang, and G. Joshi, "Client Selection in Federated Learning: Convergence
-Analysis and Power-of-Choice Selection Strategies", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
+Analysis and Power-of-Choice Selection Strategies", to appear in <em>AISTATS 2022</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
 * <ins>Y. J. Cho</ins>, S. Gupta, G. Joshi, and O. Yagan, "Bandit-based Communication-Efficient Client
 Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals, Systems and Computers 2020 (Invited Paper)</em> [[pdf]](https://arxiv.org/pdf/2012.08009.pdf)
 
