@@ -19,9 +19,12 @@ Scroll down to see more.
 
 Selected Publications
 ------
+* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", <em>Under Submission</em> [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
+* * <ins>Y. J. Cho</ins> A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
+Federated Learning", <em>IJCAI 2022</em> [[pdf]](https://arxiv.org/pdf/2204.12703.pdf)
 * <ins>Y. J. Cho</ins>, J. Wang, and G. Joshi, "Client Selection in Federated Learning: Convergence
-Analysis and Power-of-Choice Selection Strategies", to appear in <em>AISTATS 2022</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
+Analysis and Power-of-Choice Selection Strategies", <em>AISTATS 2022</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
 * <ins>Y. J. Cho</ins>, S. Gupta, G. Joshi, and O. Yagan, "Bandit-based Communication-Efficient Client
 Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals, Systems and Computers 2020 (Invited Paper)</em> [[pdf]](https://arxiv.org/pdf/2012.08009.pdf)
 
@@ -29,7 +32,8 @@ Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals
 
 Research/Work Experience
 ------
-* June 2020 - Aug 2020 / Research Intern / Language Intelligence, Microsoft Research (Redmond, WA)
+* May 2022 - Aug 2022 / Research Intern / Privacy in AI, Microsoft Research (Redmond, WA)
+* June 2021 - Aug. 2021 / Research Intern / Language Intelligence, Microsoft Research (Redmond, WA)
 * Sep. 2018 - June 2019 / R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
 * Mar. 2016 - Aug. 2018 / Research Assistant / Intelligence Networking Lab, Yonsei Univ. (Seoul, South Korea)
 * Jul. 2017 - Aug. 2017 / Visiting Scholar / Wireless@HKU Group, Hong-Kong Univ. (Pok Fu Lam, Hong Kong)
@@ -40,8 +44,8 @@ Research/Work Experience
 
 Teaching Experience/Services
 ------
-* AISTATS-22: Reviewer for Proceedings in AISTATS-22
-* ICML-21: Reviewer for Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3@ICML)
+* Reviewer for AISTATS-22, ICML-22, ITR3@ICML-21
+* Spring 2022: TA for ML Outreach for Highschools in Pittsburgh
 * Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
 
 
