@@ -21,7 +21,7 @@ Selected Publications
 ------
 * <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", <em>Under Submission</em> [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>Under Submission</em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
-* * <ins>Y. J. Cho</ins> A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
+* <ins>Y. J. Cho</ins>, A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
 Federated Learning", <em>IJCAI 2022</em> [[pdf]](https://arxiv.org/pdf/2204.12703.pdf)
 * <ins>Y. J. Cho</ins>, J. Wang, and G. Joshi, "Client Selection in Federated Learning: Convergence
 Analysis and Power-of-Choice Selection Strategies", <em>AISTATS 2022</em> [[pdf]](https://arxiv.org/pdf/2010.01243.pdf)
