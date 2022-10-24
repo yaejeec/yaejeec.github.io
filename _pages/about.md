@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yae Jee Cho, a third-year Ph. D student at Carnegie Mellon University.
+I am Yae Jee Cho, a fourth-year Ph. D student at Carnegie Mellon University.
 
 I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in data-aware distributed machine learning, in particular, federated learning.
 
@@ -15,6 +15,14 @@ I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.
 
 Scroll down to see more.
 
+News
+------
+* Nov. 2022: I am invited to the Women in Research Lean In 2022 event hosted by Meta! See you at Menlo Park!
+* Oct. 2022: Our work on client incentives in federated learning is accepted to FL-NeurIPS'22 for oral presentation (12% acceptance rate)! See you at New Orleans!
+* Aug. 2022: I finished my second summer research internship at Microsoft Research's Privacy in AI Team working on semi-supervised federated learning!
+* Apr. 2022: Our team was selected as the Finalist for the [2022 Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for research on Incentivized Federated Learning for Data-Heterogeneous and Resource-Constrained Clients
+* Mar. 2022: I gave a talk at the [MLOPT Research Group's Idea Seminar at UW-Madison](https://mlopt.ece.wisc.edu/idea-seminar/) on Leveraging Biased Client Selection in Federated Learning -- work accepted to AISTATS 2022 (29% acceptance rate)
+* Aug. 2021: I finished my summer research internship at Microsoft Research's Privacy in AI Team working on Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning -- work accepted to IJCAI 2022 (15% acceptance rate)
 
 
 Selected Publications
