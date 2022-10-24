@@ -18,7 +18,7 @@ Scroll down to see more.
 News
 ------
 * Nov. 2022: I am invited to the Women in Research Lean In 2022 event hosted by Meta! See you at Menlo Park!
-* Oct. 2022: Our work on client incentives in federated learning is accepted to FL-NeurIPS'22 for oral presentation (12% acceptance rate)! See you at New Orleans!
+* Oct. 2022: Our work on client incentives in federated learning is accepted to [FL-NeurIPS'22](https://federated-learning.org/fl-neurips-2022/) for oral presentation (12% acceptance rate)! See you at New Orleans!
 * Aug. 2022: I finished my second summer research internship at Microsoft Research's Privacy in AI Team working on semi-supervised federated learning!
 * Apr. 2022: Our team was selected as the Finalist for the [2022 Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for research on Incentivized Federated Learning for Data-Heterogeneous and Resource-Constrained Clients
 * Mar. 2022: I gave a talk at the [MLOPT Research Group's Idea Seminar at UW-Madison](https://mlopt.ece.wisc.edu/idea-seminar/) on Leveraging Biased Client Selection in Federated Learning -- work accepted to AISTATS 2022 (29% acceptance rate)
