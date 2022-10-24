@@ -52,7 +52,7 @@ Research/Work Experience
 
 Teaching Experience/Services
 ------
-* Reviewer for AISTATS-22, ICML-22, ITR3@ICML-21
+* Reviewer for NeurIPS-22; AISTATS-22,-23; ICML-22; ITR3@ICML-21; FL@NeurIPS-22;  
 * Spring 2022: TA for ML Outreach for Highschools in Pittsburgh
 * Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
 
