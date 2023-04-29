@@ -17,6 +17,8 @@ Scroll down to see more.
 
 News
 ------
+* May. 2023: I will be interning at Google Research, Seattle working on the intersection of LLMs and FL this summer!
+* Apr. 2023: Our work on [cyclic client participation in federated learning](https://arxiv.org/abs/2302.03109) is accepted to ICML 2023 (28% acceptance rate)! See you at Honolulu!
 * Nov. 2022: I am invited to the Women in Research Lean In 2022 event hosted by Meta! See you at Menlo Park!
 * Oct. 2022: Our work on [client incentives in federated learning](https://arxiv.org/pdf/2205.14840.pdf) is accepted to [FL-NeurIPS'22](https://federated-learning.org/fl-neurips-2022/) for oral presentation (12% acceptance rate)! See you at New Orleans!
 * Aug. 2022: I finished my second summer research internship at Microsoft Research's Privacy in AI Team working on semi-supervised federated learning!
@@ -27,7 +29,8 @@ News
 
 Selected Publications
 ------
-* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", <em>Under Submission</em> [[pdf]](https://arxiv.org/abs/2205.14840)
+* <ins>Y. J. Cho</ins>, P. Sharma, G. Joshi, Z. Xu, S. Kale, T. Zhang, "On the Convergence of Federated Averaging with Cyclic Client Participation", ICML 2023 [[pdf]](https://arxiv.org/abs/2302.03109)
+* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", <em>Under Submission</em>, FL-NeurIPS'22 [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), Dec 2022 </em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
 Federated Learning", <em>IJCAI 2022</em> [[pdf]](https://arxiv.org/pdf/2204.12703.pdf)
@@ -52,7 +55,7 @@ Research/Work Experience
 
 Teaching Experience/Services
 ------
-* Reviewer for NeurIPS-22; AISTATS-22,-23; ICML-22; ITR3@ICML-21; FL@NeurIPS-22;  
+* Reviewer for NeurIPS-22~23; AISTATS-22~23; ICML-22~23; ITR3@ICML-21; FL@NeurIPS-22;  
 * Spring 2022: TA for ML Outreach for Highschools in Pittsburgh
 * Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
 
@@ -95,7 +98,7 @@ Previous Publications & Patent
 
 Miscellaneous
 ------
-In my free time I enjoy playing the piano, spending time with <font face="monospace" color="#1e90ff">PanitheCorgi</font>, and volunteering.
+In my free time I enjoy playing the piano, squash, swimming, and spending time with <font face="monospace" color="#1e90ff">PanitheCorgi</font>.
 
 <img src="/images/panipic.jpg" width="30%">
 <p><font face="monospace" color="#1e90ff">PanitheCorgi</font> loves <span>&#10052;</span> </p> 
@@ -104,5 +107,5 @@ In my free time I enjoy playing the piano, spending time with <font face="monosp
 <br>
 
 
-<p style="color:Grey; font-size: 15px;"> Last updated on Oct. 2022.</p>
+<p style="color:Grey; font-size: 15px;"> Last updated on May. 2023.</p>
 
