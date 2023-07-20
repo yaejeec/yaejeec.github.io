@@ -17,6 +17,7 @@ Scroll down to see more.
 
 News
 ------
+* Jul. 2023: Our work done during my summer at Microsoft Research on [federated learning with limited labels](https://arxiv.org/pdf/2307.08809.pdf) is accepted to ICCV 2023! See you at Paris!
 * May. 2023: I will be interning at Google Research, Seattle working on the intersection of LLMs and FL this summer!
 * Apr. 2023: Our work on [cyclic client participation in federated learning](https://arxiv.org/abs/2302.03109) is accepted to ICML 2023 (28% acceptance rate)! See you at Honolulu!
 * Nov. 2022: I am invited to the Women in Research Lean In 2022 event hosted by Meta! See you at Menlo Park!
@@ -29,7 +30,9 @@ News
 
 Selected Publications
 ------
-* <ins>Y. J. Cho</ins>, P. Sharma, G. Joshi, Z. Xu, S. Kale, T. Zhang, "On the Convergence of Federated Averaging with Cyclic Client Participation", ICML 2023 [[pdf]](https://arxiv.org/abs/2302.03109)
+* <ins>Y. J. Cho</ins>, G. Joshi, and D. Dimitriadis, "Local or Global: Selective Knowledge Assimilation
+for Federated Learning with Limited Labels", ICCV 2023 [[pdf]](https://arxiv.org/abs/2307.08809)
+* <ins>Y. J. Cho</ins>, P. Sharma, G. Joshi, Z. Xu, S. Kale, and T. Zhang, "On the Convergence of Federated Averaging with Cyclic Client Participation", ICML 2023 [[pdf]](https://arxiv.org/abs/2302.03109)
 * <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", <em>Under Submission</em>, FL-NeurIPS'22 [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), Dec 2022 </em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
@@ -107,5 +110,5 @@ In my free time I enjoy playing the piano, squash, swimming, and spending time w
 <br>
 
 
-<p style="color:Grey; font-size: 15px;"> Last updated on May. 2023.</p>
+<p style="color:Grey; font-size: 15px;"> Last updated on Jul. 2023.</p>
 
