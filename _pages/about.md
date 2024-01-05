@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yae Jee Cho, a fourth-year Ph. D student at Carnegie Mellon University.
+I am Yae Jee Cho, a fifth-year Ph. D student at Carnegie Mellon University. I am on the 2024 job market!
 
-I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in data-aware distributed machine learning, in particular, federated learning.
+I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in distributed machine learning, on-device machine learning, and federated learning.
 
 
 
@@ -17,6 +17,7 @@ Scroll down to see more.
 
 News
 ------
+* Dec. 2023: Our work done during my summer at Google Research on [parameter-efficient federated fine-tuning with heterogeneous Low-Rank Approximation](https://openreview.net/forum?id=EmV9sGpZ7q) has been accepted to FL@FM-NeurIPS'23! See you at New Orleans!
 * Jul. 2023: Our work done during my summer at Microsoft Research on [federated learning with limited labels](https://arxiv.org/pdf/2307.08809.pdf) is accepted to ICCV 2023! See you at Paris!
 * May. 2023: I will be interning at Google Research, Seattle working on the intersection of LLMs and FL this summer!
 * Apr. 2023: Our work on [cyclic client participation in federated learning](https://arxiv.org/abs/2302.03109) is accepted to ICML 2023 (28% acceptance rate)! See you at Honolulu!
@@ -30,6 +31,7 @@ News
 
 Selected Publications
 ------
+* <ins>Y. J. Cho</ins>, L. Liu, Z. Xu, A. Fahrezi, M. Barnes, and G. Joshi, "Heterogeneous LoRA for Federated Fine-tuning of On-device Foundation Models", FL@FM-NeurIPS'23 [[pdf]](https://openreview.net/pdf?id=EmV9sGpZ7q)
 * <ins>Y. J. Cho</ins>, G. Joshi, and D. Dimitriadis, "Local or Global: Selective Knowledge Assimilation
 for Federated Learning with Limited Labels", ICCV 2023 [[pdf]](https://arxiv.org/abs/2307.08809)
 * <ins>Y. J. Cho</ins>, P. Sharma, G. Joshi, Z. Xu, S. Kale, and T. Zhang, "On the Convergence of Federated Averaging with Cyclic Client Participation", ICML 2023 [[pdf]](https://arxiv.org/abs/2302.03109)
@@ -46,6 +48,8 @@ Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals
 
 Research/Work Experience
 ------
+* Aug 2023 - Dec 2023 / Student Researcher / Federated Learning, Google Research (Seattle, WA)
+* May 2023 - Aug 2023 / Research Intern / Federated Learning, Google Research (Seattle, WA)
 * May 2022 - Aug 2022 / Research Intern / Privacy in AI, Microsoft Research (Redmond, WA)
 * June 2021 - Aug. 2021 / Research Intern / Language Intelligence, Microsoft Research (Redmond, WA)
 * Sep. 2018 - June 2019 / R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
@@ -110,5 +114,5 @@ In my free time I enjoy playing the piano, squash, swimming, and spending time w
 <br>
 
 
-<p style="color:Grey; font-size: 15px;"> Last updated on Jul. 2023.</p>
+<p style="color:Grey; font-size: 15px;"> Last updated on Jan. 2024.</p>
 
