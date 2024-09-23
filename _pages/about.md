@@ -30,11 +30,11 @@ News
 Selected Publications
 ------
 * <ins>Y. J. Cho</ins>, L. Liu, Z. Xu, A. Fahrezi, and G. Joshi, "Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models", EMNLP 2024 [[pdf]](https://arxiv.org/abs/2401.06432)
+* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", TMLR 2024, Shorter version at FL-NeurIPS'22 (oral) [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, L. Liu, Z. Xu, A. Fahrezi, M. Barnes, and G. Joshi, "Heterogeneous LoRA for Federated Fine-tuning of On-device Foundation Models", FL@FM-NeurIPS'23 [[pdf]](https://openreview.net/pdf?id=EmV9sGpZ7q)
 * <ins>Y. J. Cho</ins>, G. Joshi, and D. Dimitriadis, "Local or Global: Selective Knowledge Assimilation
 for Federated Learning with Limited Labels", ICCV 2023 [[pdf]](https://arxiv.org/abs/2307.08809)
 * <ins>Y. J. Cho</ins>, P. Sharma, G. Joshi, Z. Xu, S. Kale, and T. Zhang, "On the Convergence of Federated Averaging with Cyclic Client Participation", ICML 2023 [[pdf]](https://arxiv.org/abs/2302.03109)
-* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", TMLR 2024, Shorter version at FL-NeurIPS'22 (oral) [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), Dec 2022 </em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
 Federated Learning", <em>IJCAI 2022</em> [[pdf]](https://arxiv.org/pdf/2204.12703.pdf)
@@ -58,5 +58,5 @@ In my free time I enjoy playing the piano, squash, swimming, and spending time w
 <br>
 
 
-<p style="color:Grey; font-size: 15px;"> Last updated on Jan. 2024.</p>
+<p style="color:Grey; font-size: 15px;"> Last updated on Sep. 2024.</p>
 
