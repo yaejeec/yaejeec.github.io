@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yae Jee Cho, a fifth-year Ph. D student at Carnegie Mellon University. I am on the 2024 job market!
-
-I am advised by [Prof. Gauri Joshi](http://www.andrew.cmu.edu/user/gaurij/home.html), in the [Optimization, Probability and Learning (OPAL) Lab](http://www.andrew.cmu.edu/user/gaurij/Group.html). Our research group is affiliated with the [Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml). My current research interests are in distributed machine learning, on-device machine learning, and federated learning.
+I received my Ph. D on [Faster, Incentivized, and Efficient Federated Learning: Theory and Applications](https://www.proquest.com/openview/b4f75e9c959676ff3655114c1be31ac1/1?pq-origsite=gscholar&cbl=18750&diss=y) at Carnegie Mellon Univ. on Aug. 2024, and joined Google to work on On-device Machine Learning for LLMs. My research interests are in distributed machine learning, on-device machine learning, and federated learning.
 
 
 
@@ -17,6 +15,9 @@ Scroll down to see more.
 
 News
 ------
+* Sep. 2024: Our work in collaboration with Google Research on [Heterogeneous LoRA for Federated Fine-tuning of LLMs](https://arxiv.org/abs/2401.06432) has been accepted to EMNLP main proc.! See you at Miami! 
+* Aug. 2024: Defended my Thesis on [Faster, Incentivized, and Efficient Federated Learning: Theory and Applications](https://www.proquest.com/openview/b4f75e9c959676ff3655114c1be31ac1/1?pq-origsite=gscholar&cbl=18750&diss=y)!
+* Jul. 2024: Joined Google to work on On-device Machine Learning for LLMs
 * Dec. 2023: Our work done during my summer at Google Research on [parameter-efficient federated fine-tuning with heterogeneous Low-Rank Approximation](https://openreview.net/forum?id=EmV9sGpZ7q) has been accepted to FL@FM-NeurIPS'23! See you at New Orleans!
 * Jul. 2023: Our work done during my summer at Microsoft Research on [federated learning with limited labels](https://arxiv.org/pdf/2307.08809.pdf) is accepted to ICCV 2023! See you at Paris!
 * May. 2023: I will be interning at Google Research, Seattle working on the intersection of LLMs and FL this summer!
@@ -31,11 +32,12 @@ News
 
 Selected Publications
 ------
+* <ins>Y. J. Cho</ins>, L. Liu, Z. Xu, A. Fahrezi, and G. Joshi, "Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models", EMNLP 2024 [[pdf]](https://arxiv.org/abs/2401.06432)
 * <ins>Y. J. Cho</ins>, L. Liu, Z. Xu, A. Fahrezi, M. Barnes, and G. Joshi, "Heterogeneous LoRA for Federated Fine-tuning of On-device Foundation Models", FL@FM-NeurIPS'23 [[pdf]](https://openreview.net/pdf?id=EmV9sGpZ7q)
 * <ins>Y. J. Cho</ins>, G. Joshi, and D. Dimitriadis, "Local or Global: Selective Knowledge Assimilation
 for Federated Learning with Limited Labels", ICCV 2023 [[pdf]](https://arxiv.org/abs/2307.08809)
 * <ins>Y. J. Cho</ins>, P. Sharma, G. Joshi, Z. Xu, S. Kale, and T. Zhang, "On the Convergence of Federated Averaging with Cyclic Client Participation", ICML 2023 [[pdf]](https://arxiv.org/abs/2302.03109)
-* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", <em>Under Submission</em>, FL-NeurIPS'22 [[pdf]](https://arxiv.org/abs/2205.14840)
+* <ins>Y. J. Cho</ins>, D. Jhunjhunwala, T. Li, V. Smith, and G. Joshi, "To Federate or Not To Federate: Incentivizing Client Participation in Federated Learning", TMLR 2024, Shorter version at FL-NeurIPS'22 (oral) [[pdf]](https://arxiv.org/abs/2205.14840)
 * <ins>Y. J. Cho</ins>, J. Wang, T. Chiruvolu, and G. Joshi, "Personalized Federated Learning for Heterogeneous Devices with Clustered Knowledge Transfer", <em>IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), Dec 2022 </em> [[pdf]](https://arxiv.org/pdf/2109.08119.pdf)
 * <ins>Y. J. Cho</ins>, A. Manoel, G. Joshi, R. Sim, and D. Dimitriadis, "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in
 Federated Learning", <em>IJCAI 2022</em> [[pdf]](https://arxiv.org/pdf/2204.12703.pdf)
@@ -45,61 +47,6 @@ Analysis and Power-of-Choice Selection Strategies", <em>AISTATS 2022</em> [[pdf
 Selection Strategies for Federated Learning", <em>Asilomar Conference on Signals, Systems and Computers 2020 (Invited Paper)</em> [[pdf]](https://arxiv.org/pdf/2012.08009.pdf)
 
 
-
-Research/Work Experience
-------
-* Aug 2023 - Dec 2023 / Student Researcher / Federated Learning, Google Research (Seattle, WA)
-* May 2023 - Aug 2023 / Research Intern / Federated Learning, Google Research (Seattle, WA)
-* May 2022 - Aug 2022 / Research Intern / Privacy in AI, Microsoft Research (Redmond, WA)
-* June 2021 - Aug. 2021 / Research Intern / Language Intelligence, Microsoft Research (Redmond, WA)
-* Sep. 2018 - June 2019 / R&D Engineer / Drivers Assistance Systems at Mercedes-Benz R&D Korea (Seoul, South Korea)
-* Mar. 2016 - Aug. 2018 / Research Assistant / Intelligence Networking Lab, Yonsei Univ. (Seoul, South Korea)
-* Jul. 2017 - Aug. 2017 / Visiting Scholar / Wireless@HKU Group, Hong-Kong Univ. (Pok Fu Lam, Hong Kong)
-* Aug. 2015 / Student / Qualcomm IT class of 2015 (San Diego, CA)
-* July 2014 - Aug. 2014 / Student / Summer Development Program at Aalto Design Factory, Aalto Univ. (Helsinki, Finland)
-
-
-
-Teaching Experience/Services
-------
-* Reviewer for NeurIPS 22-23; AISTATS 22-23; ICML 22-23; ITR3@ICML 21; FL@NeurIPS 22; FL-ICML 23
-* Spring 2022: TA for ML Outreach for Highschools in Pittsburgh
-* Spring 2021: TA for 18-667: Algorithms for Large-scale Distributed ML and Optimization [[link]](https://www.andrew.cmu.edu/course/18-667/)
-
-
-
-Honors
-------
-* Doctoral Study Abroad Scholarship ($80K in total), Ministry of Education, Republic of Korea 2019-2021
-* Honor Prize in 24th Samsung Human Tech Paper Award, co-recipient, Samsung 2018
-* Outstanding Young Researcher Award, The Korean Inst. of Comm. and Info. Sciences (KICS) 2016
-* Full scholarship-graduate school ($49K in total), Inst. for Info. & Comm. Tech. Promo. (IITP) 2016-2017
-* Most Original Idea Prize for International Women's Hackathon, Microsoft 2014
-* Honors for Academic Excellence, Yonsei University 2013-2015
-* Full scholarship-undergraduate school ($45K in total), Inst. for Info. & Comm. Tech. Promo. (IITP) 2013-2015
-
-
-
-
-Previous Publications & Patent
-------
-* Y.-G. Lim, <ins>Y. J. Cho</ins>, M. S. Sim, Y. Kim, C.-B. Chae, and R. Valenzuela, "Map-based Millimeter-Wave Channel Models: An Overview, Hybrid Modeling, Data, and Learning," submitted to IEEE Wireless Communications Magazine, 2019 [pdf](http://yaejeec.github.io/files/2019_IEEE_Map-based Millimeter-Wave Channel Models- An Overview, Hybrid Modeling, Data, and Learning.pdf)
-
-* <ins>Y. J. Cho</ins>, K. Huang, and C.-B. Chae, "V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model," Proc. IEEE Global Communications Conference (GLOBECOM) Workshops, Dec 2018 (Abu Dhabi, UAE) [pdf](http://yaejeec.github.io/files/2018_IEEEGLOBECOM_V2X Downlink Coverage Analysis with a Realistic Urban Vehicular Model.pdf)
-
-* Y.-G. Lim, <ins>Y. J. Cho</ins>, T. Oh, Y. Lee, and C.-B. Chae, "Relationship between Cross Polarization Discrimination (XPD) and Spatial Correlation for Indoor Small Cell MIMO Systems," IEEE Wireless Communications Letters, vol. 7, no. 4, pp. 654-657, Aug. 2018 [pdf](http://yaejeec.github.io/files/2018_IEEEWCL_Relationship between Cross-Polarization Discrimination (XPD) and Spatial Correlation in Indoor Small-Cell MIMO Systems.pdf)
-
-* <ins>Y. J. Cho</ins>, G.-Y. Suk, B. Kim, D.-K. Kim, and C.-B. Chae, "RF Lens Embedded Antenna Array for mmWave MIMO: Design and Performance," IEEE Communications Magazine, vol. 56, no. 7, pp. 42-48, July 2018 [pdf](http://yaejeec.github.io/files/2018_IEEECOMMAG_RF Lens-Embedded Antenna Array for mmWave MIMO Design and Performance.pdf)
-
-* <ins>Y. J. Cho</ins>, H. B. Yilmaz, W. Guo, and C.-B. Chae, "Effective Inter-symbol Interference Mitigation with a Limited Amount of Enzymes in Molecular Communications," Trans. on Emerging Telecommunications Technologies (ETT), Special Issue on Enabling Nano-Networking via Molecular Communications, vol. 28, no. 7, pp. 1-12, July 2017 [pdf](http://yaejeec.github.io/files/2016_WileyETT_Effective Inter-symbol Interference Mitigation with a Limited Amount of Enzymes in Molecular Communications.pdf)
-
-* <ins>Y. J. Cho</ins>, H. B. Yilmaz, W. Guo, and C.-B. Chae, "Effective Enzyme Deployment for Inter-Symbol Interference Mitigation in Molecular Communication," Proc. IEEE Wireless Communications and Networking Conference (WCNC), March 2017 (San Francisco, USA) [pdf](http://yaejeec.github.io/files/2017_IEEEWCNC_Effective Enzyme Deployment for Degradation of Interference Molecules in Molecular Communication.pdf)
-
-* H. B. Yilmaz, C. Lee, <ins>Y. J. Cho</ins>, and C.-B. Chae, "A Machine Learning Approach to Model the Received Signals in Molecular Communications," Proc. of IEEE International Black Sea Conference on Communications and Networking (IEEE BlackSeaCom), June 2017 (Istanbul, Turkey)[pdf](http://yaejeec.github.io/files/2017_IEEEBlackSeaCom_A Machine Learning Approach to Model the Received Signal in Molecular Communications.pdf) 
-
-* H. B. Yilmaz, <ins>Y. J. Cho</ins>, W. Guo, and C.-B. Chae, "Interference Reduction via Enzyme Deployment for Molecular Communication," IEEE Electronics Letters, vol. 52, no. 13, pp. 1094-1096, June 2016 [pdf](http://yaejeec.github.io/files/2016_IEEE EL_Interference Reduction via Enzyme Deployment for Molecular Communication.pdf)
-
-* C.-B. Chae, B. Koo, <ins>Y. J. Cho</ins>, "METHOD FOR RECEIVING DATA IN MIMO MOLECULAR COMMUNICATION SYSTEM." U.S. Patent Application 20170346512, issued November 30, 2017 
 
 
 
