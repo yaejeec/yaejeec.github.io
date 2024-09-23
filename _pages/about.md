@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph. D on [Faster, Incentivized, and Efficient Federated Learning: Theory and Applications](https://www.proquest.com/openview/b4f75e9c959676ff3655114c1be31ac1/1?pq-origsite=gscholar&cbl=18750&diss=y) at Carnegie Mellon Univ. on Aug. 2024, and joined Google to do Applied Research on On-device Machine Learning for LLMs. My research interests are broadly in distributed machine learning, on-device machine learning, and federated learning.
+I received my Ph. D on [Faster, Incentivized, and Efficient Federated Learning: Theory and Applications](https://www.proquest.com/openview/b4f75e9c959676ff3655114c1be31ac1/1?pq-origsite=gscholar&cbl=18750&diss=y) at Carnegie Mellon University on Aug. 2024, and and joined Google to conduct applied research on on-device machine learning for large language models. My research interests are broadly in distributed machine learning, on-device machine learning, and federated learning.
 
 
 News
